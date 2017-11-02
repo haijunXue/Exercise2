@@ -5,8 +5,8 @@ print(paste0(name," has  ", eyecolor," eyes and enjoys eating ",meal, " the most
 
 #(2)
 
-
-#---4.3
+#gfd
+#---p.3
 # improve this script by wrapping  the printer inside a function 
 # printer(name,eyecolor,favorite.meal)
 printer <- function(name,eyecolor,favorite.meal){
