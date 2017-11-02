@@ -26,6 +26,12 @@ printer(name,eyecolor,meal)
 #implement your changes(the new function on the bottom of the script) in the branch.
 # Add,commit and push them to the branch to Github
 
+#(1)edit printme.R
+#(2) add printer() function
+#(3)git commit -a -m 'add a new function [testing]'
+#(4)git remote add origin https://github.com/haijunXue/Exercise2.git
+#(5)git push -u origin testing
+
 
 
 
