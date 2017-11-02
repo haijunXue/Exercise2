@@ -45,13 +45,6 @@ printer(name,eyecolor,meal)
 # git merge testing
 
 #----------4-.9
-#provoke and resolve a conflict
-#---4.9.1
-# git checkout the branch
-#git checkout testing
-
-# --4.9.2
-#change the name in the printme.R scripti to FRITZ, add and commit the change
 
 
 
